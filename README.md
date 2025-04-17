@@ -38,7 +38,7 @@ Um aplicativo simples e intuitivo de lista de tarefas (To-Do List) desenvolvido 
 
 1. Clone este repositório
    ```bash
-   git clone https://github.com/seu-usuario/minhas-tarefas.git
+   git clone https://github.com/Eduardo1985S/minhas-tarefas.git
    cd minhas-tarefas
    ```
 
