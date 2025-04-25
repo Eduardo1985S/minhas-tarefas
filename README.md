@@ -62,10 +62,6 @@ Um aplicativo simples e intuitivo de lista de tarefas (To-Do List) desenvolvido 
 
 Este projeto foi desenvolvido para alunos do curso Técnico em Desenvolvimento de Sistemas, como parte da aula de **Persistência de Dados em Aplicações Mobile** com React Native. O aplicativo demonstra como implementar armazenamento local utilizando AsyncStorage para persistir dados entre sessões do aplicativo.
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
 ---
 
 Desenvolvido como material educacional para o curso Técnico em Desenvolvimento de Sistemas.
